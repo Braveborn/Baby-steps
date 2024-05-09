@@ -1,0 +1,26 @@
+body{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#youtube {
+  background-color: red;
+  color: white;
+  padding: 10px;
+  border-color: #fff;
+  border-style: hidden;
+  border-radius: 5px;
+}
+#facebook{
+  background-color: white;
+  color: blue;
+  border-color:rgb(49, 171, 253);
+  padding: 10px;
+  border-radius: 5px;
+}
+#twitter{
+  background-color: rgb(31, 102, 253);
+  color: #fff;
+  padding: 10px;
+  border-radius: 30px;
+  border-style: hidden;
+  width:80px;
+}
